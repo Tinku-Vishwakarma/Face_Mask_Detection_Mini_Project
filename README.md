@@ -1,5 +1,4 @@
 # Face_Mask_Detection_Mini_Project
-# I Create this project using Python and Machin Learning 
   Face mask detection using machine learning and Python identifies if a person is wearing a 
   mask by training a model on image datasets. Libraries like OpenCV enable real-time 
   detection, helping monitor mask compliance in public spaces.
